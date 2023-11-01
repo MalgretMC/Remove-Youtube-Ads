@@ -12,8 +12,7 @@ Others :
 -     git clone https://github.com/MalgretMC/Remove-Youtube-Ads/
 - In your browser, go to : Extensions -> Load unzipped extension -> Select "Remove-Youtube-Ads" (folder downloaded above)
 
-Be cautious : extension must have rights on Youtube.com to work ! 
-              Please check the rights in extension settings.
+⚠️ extension must have rights on Youtube.com to work, please check in extension settings. ⚠️
 
 # Details
 
