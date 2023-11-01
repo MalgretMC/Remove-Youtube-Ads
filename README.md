@@ -24,4 +24,5 @@ This addon allows to use Youtube without ads during videos.
 # License
 
 This projet is under Mozilla Public License 2.0
+
 See https://choosealicense.com/licenses/mpl-2.0/
