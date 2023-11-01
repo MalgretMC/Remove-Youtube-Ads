@@ -4,6 +4,7 @@ Let's enjoy peace and speed, without ads.
 # Installation
 
 Firefox : https://addons.mozilla.org/fr/firefox/addon/remove-youtube-ads/
+
 Others : 
 
 - git clone https://github.com/MalgretMC/Remove-Youtube-Ads/
