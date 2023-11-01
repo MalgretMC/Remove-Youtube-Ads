@@ -7,7 +7,7 @@ Firefox : https://addons.mozilla.org/fr/firefox/addon/remove-youtube-ads/
 
 Others : 
 
-- git clone https://github.com/MalgretMC/Remove-Youtube-Ads/
+-     git clone https://github.com/MalgretMC/Remove-Youtube-Ads/
 - In your browser, go to : Extensions -> Load unzipped extension -> Select directory downloaded above
 
 Be cautious : extension must have rights on Youtube.com to work ! 
