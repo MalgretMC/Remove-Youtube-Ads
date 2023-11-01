@@ -1,0 +1,1 @@
+{"name":"Remove Youtube Ads","description":"Let's enjoy peace and speed, without ads.","version":"0.1","manifest_version":3,"icons":{"128":"i.png"},"host_permissions":["https://*.youtube.com/*"],"content_scripts":[{"matches":["https://*.youtube.com/*"],"js":["m.js"]}]}
