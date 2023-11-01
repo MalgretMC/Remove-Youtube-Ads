@@ -1,7 +1,7 @@
 # Remove-Youtube-Ads
 Let's enjoy peace and speed, without ads.
 
-⚠️ You have to disable adblock on Youtube, because it is flagged ⚠️
+⚠️ You have to disable adblock on Youtube, as it flags ⚠️
 
 # Installation
 
