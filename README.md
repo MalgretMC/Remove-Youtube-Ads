@@ -1,6 +1,8 @@
 # Remove-Youtube-Ads
 Let's enjoy peace and speed, without ads.
 
+⚠️ You have to disable adblock on Youtube, because it is flagged ⚠️
+
 # Installation
 
 Firefox : https://addons.mozilla.org/fr/firefox/addon/remove-youtube-ads/
